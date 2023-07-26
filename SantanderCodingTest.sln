@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantanderCodingTest", "SantanderCodingTest\SantanderCodingTest.csproj", "{1BA1DE85-EBB5-49F8-92C5-8BA36411D0A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantanderCodingTest.ExternalApiClients", "SantanderCodingTest.ExternalApiClients\SantanderCodingTest.ExternalApiClients.csproj", "{A40F7996-DF8D-46B9-BAE2-1D341F23B09C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BA1DE85-EBB5-49F8-92C5-8BA36411D0A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA1DE85-EBB5-49F8-92C5-8BA36411D0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA1DE85-EBB5-49F8-92C5-8BA36411D0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA1DE85-EBB5-49F8-92C5-8BA36411D0A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A40F7996-DF8D-46B9-BAE2-1D341F23B09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40F7996-DF8D-46B9-BAE2-1D341F23B09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40F7996-DF8D-46B9-BAE2-1D341F23B09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40F7996-DF8D-46B9-BAE2-1D341F23B09C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AE47097-5467-410E-94C6-4139926316F1}
+	EndGlobalSection
+EndGlobal
